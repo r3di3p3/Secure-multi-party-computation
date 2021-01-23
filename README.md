@@ -1,6 +1,11 @@
-# Secure-multi-party-computation
+# Secure multiparty computation
 Secure multi-party computation
-console application, allows to generate parts of keys using shamir's multi-part calculation. It is also used to generate secrecy from the parties.
+console application, allows to generate parts of keys using shamir's multi-part calculation. It is also used to generate ***The secret*** from this parties.
+
+# How it is work ? 
+   Shamr's Multi part calculation
+    
+
 # Example of use: 
 Test to create Keys
 
